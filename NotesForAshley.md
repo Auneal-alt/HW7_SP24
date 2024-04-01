@@ -1,5 +1,5 @@
 This is Austin Neal typing this, with Marlesha Ellis and I collaborating. After many hours and 100s of test runs and changes. We couldnt get what we wanted out of the code.
 4 files are from Smay, ThermoStateCalc.py said not to edit, ThermoStateCalc.ui user interface file, UnitConversion.py, and the main single state calculator file: ThermoStateCalc_app.py
-My HW7P1_SP24.py was my primary file that I did most of my attempts to edit the thermostatecalc_app file to give the gui the wanted additions. Test1.py was another file where I would throw in a bunch of changes
-the thing would crash then id revert it, basically does the same thing as my HW7 file just places the useless containers in a different location. test2.py file was my attempt at changing the TSC.py file to add in more states
+My HW7P1_SP24.py was the primary file that we did most of our attempts to edit the thermostatecalc_app file to give the gui the wanted additions. Test1.py was another file where I would throw in a bunch of changes
+the thing would crash then id revert it, basically does the same thing as our HW7 file just places the useless containers in a different location. test2.py file was my attempt at changing the TSC.py file to add in more states
 but it also crashed. Sorry to bother you with a long explanation, and thankyou for reading it. I plan to submit another file late assuming I can figure it out later since im currently running out of time before class.
